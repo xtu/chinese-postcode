@@ -1,4 +1,4 @@
-import { ChinesePostcode } from "./main";
+import * as ChinesePostcode from "./index";
 
 import * as mocha from 'mocha';
 import * as chai from 'chai';
