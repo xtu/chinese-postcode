@@ -1,9 +1,17 @@
 {
-  "name": "chinese-postcode",
+  "name": "cn-postcode",
   "version": "1.0.0",
   "description": "A JS library to convert between Chinese address and postcode.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtu/chinese-postcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xtu/chinese-postcode/issues"
+  },
+  "homepage": "https://github.com/xtu/chinese-postcode",
   "scripts": {
     "test": "mocha --reporter spec --compilers ts:ts-node/register \"src/**/*.spec.ts\"",
     "build": "tsc"
