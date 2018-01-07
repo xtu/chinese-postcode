@@ -1,6 +1,6 @@
 # Chinese Postcode Library
 
-In Chinese postal system, a postcode is identified by three levels: _province_, _city_ and _county. This package allows you to search search the postcode by the given address identified by those three parameters. It also provides the functionality to search address from a given postcode.
+In Chinese postal system, a postcode is identified by three levels: _province_, _city_ and _county_. This package allows you to search search the postcode by the given address identified by those three parameters. It also provides the functionality to search address from a given postcode.
 
 # Install
 To get started, simply install it with npm:
