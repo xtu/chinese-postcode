@@ -1,5 +1,5 @@
 {
-  "name": "cn-postcode",
+  "name": "chinese-postcode",
   "version": "1.0.0",
   "description": "A JS library to convert between Chinese address and postcode.",
   "main": "dist/index.js",
