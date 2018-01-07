@@ -1,0 +1,1 @@
+export { ChinesePostcode } from './main'

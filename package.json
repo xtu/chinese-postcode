@@ -1,0 +1,25 @@
+{
+  "name": "chinese-postcode",
+  "version": "1.0.0",
+  "description": "A JS library to convert between Chinese address and postcode.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "mocha --reporter spec --compilers ts:ts-node/register \"src/**/*.spec.ts\"",
+    "build": "tsc"
+  },
+  "keywords": [
+    "chinese",
+    "postcode"
+  ],
+  "author": "Xiaoming Tu <admin@xiaomingtu.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.1.0",
+    "@types/mocha": "^2.2.46",
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
+}
