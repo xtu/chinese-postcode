@@ -1,6 +1,6 @@
 {
   "name": "chinese-postcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JS library to convert between Chinese address and postcode.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
