@@ -24,6 +24,19 @@ var postcode = pc.getPostcode({
 });
 ```
 
+# Contribution
+Clone the repo:
+```
+git clone https://github.com/xtu/chinese-postcode.git
+```
+
+Run tests:
+```
+npm test
+```
+
+Create branch. Make changes. Push branch and create a pull request.
+
 ### License
 
 [ISC](/LICENSE.md)
