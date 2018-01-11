@@ -1,4 +1,5 @@
 # Chinese Postcode Library
+[![Build Status](https://travis-ci.org/xtu/chinese-postcode.svg?branch=master)](https://travis-ci.org/xtu/chinese-postcode)
 
 In Chinese postal system, a postcode is identified by three levels: _province_, _city_ and _county_. This package allows you to search search the postcode by the given address identified by those three parameters. It also provides the functionality to search address from a given postcode.
 
