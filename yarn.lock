@@ -345,10 +345,10 @@ minimatch@^5.0.1, minimatch@^5.1.6:
     brace-expansion "^2.0.1"
 
 minimatch@^9.0.3:
-  version "9.0.3"
-  resolved "https://registry.npmjs.org/minimatch/-/minimatch-9.0.3.tgz"
+  version "9.0.9"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.9.tgz#9b0cb9fcb78087f6fd7eababe2511c4d3d60574e"
   dependencies:
-    brace-expansion "^2.0.1"
+    brace-expansion "^2.0.2"
 
 mocha@^10.2.0:
   version "10.8.2"
